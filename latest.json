@@ -1,6 +1,6 @@
 {
-  "sha256": "6be4d78567ebedeb8b7206542d733094f83256f215d45643265df38c48f78d6c",
-  "version": "0.8.3",
-  "notes": "NetWatch 0.8.3 server, core probe, and updater.",
-  "package_url": "https://github.com/menglish1986/netwatch-releases/releases/download/v0.8.3/NetWatch-0.8.3-Update.zip"
+  "version": "0.17.52",
+  "package_url": "https://github.com/menglish1986/netwatch-releases/releases/download/v0.17.52/NetWatch-0.17.52-Update.zip",
+  "sha256": "e097780f9b3cbad094854a233035a4e00bf25239deb0bc3f77756f4ed08ff5cc",
+  "notes": "NetWatch 0.17.52 server, core probe, and updater."
 }
