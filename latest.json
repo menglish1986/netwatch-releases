@@ -1,6 +1,6 @@
 {
     "package_url":  "https://github.com/menglish1986/netwatch-releases/releases/download/v0.17.67/NetWatch-0.17.67-Update.zip",
-    "sha256":  "984afeccc4a2d696d7d1a0f7b0fb88dd20e6ae58be34b70169cc5ba56b10c3ea",
+    "sha256":  "b355042f34270e496d2bf4016bb527ee2ce22128d2c3c184cd38a10c77b21d43",
     "version":  "0.17.67",
     "notes":  "NetWatch 0.17.67 server, core probe, and updater."
 }
