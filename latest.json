@@ -1,6 +1,6 @@
 {
-    "package_url":  "https://github.com/menglish1986/netwatch-releases/releases/download/v0.17.68/NetWatch-0.17.68-Update.zip",
-    "sha256":  "36c2856ed7898f5afc91203892fdc21d2564def529c953f347f5511fc6a3d4d5",
-    "version":  "0.17.68",
-    "notes":  "NetWatch 0.17.68 server, core probe, and updater."
+  "package_url": "https://github.com/menglish1986/netwatch-releases/releases/download/v0.17.70/NetWatch-0.17.70-Update.zip",
+  "sha256": "7473f65160b14a18a21dbb00d622eb79cbc7b6bc050bc3cefad696a00c83a9c8",
+  "version": "0.17.70",
+  "notes": "NetWatch 0.17.70 adds the PRTG-inspired global shell and S/M/L/XL device views, live seven-state counts, context actions, timed pause and resume, primary channel readings, and bounded sparklines. Automated suite: 120 tests passed."
 }
