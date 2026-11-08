@@ -1,6 +1,6 @@
 {
-    "package_url":  "https://github.com/menglish1986/netwatch-releases/releases/download/v0.18.7/NetWatch-0.18.7-Update.zip",
-    "sha256":  "622f2f373886c9957627ac482c5b4d4f84ae2700c09b21efd24c7d7ea3e3d02c",
-    "version":  "0.18.7",
-    "notes":  "Fixes the in-app update package so the updater accepts it, hardens RouterOS SNMP responses, corrects status counts and Welcome summaries, and improves table contrast."
+    "package_url":  "https://github.com/menglish1986/netwatch-releases/releases/download/v0.18.8/NetWatch-0.18.8-Update.zip",
+    "sha256":  "85c4890ba016d73f05570ccfce7fb1bc01cf0172a2b51751abc65fa9d258dacb",
+    "version":  "0.18.8",
+    "notes":  "Enables in-app updates over local loopback or trusted HTTPS with an exact same-origin check, reports when the connection cannot safely install, and includes the 0.18.7 RouterOS SNMP, status-count, and table-contrast fixes."
 }
