@@ -1,6 +1,6 @@
 {
-  "package_url": "https://github.com/menglish1986/netwatch-releases/releases/download/v0.17.70/NetWatch-0.17.70-Update.zip",
-  "sha256": "7473f65160b14a18a21dbb00d622eb79cbc7b6bc050bc3cefad696a00c83a9c8",
-  "version": "0.17.70",
-  "notes": "NetWatch 0.17.70 adds the PRTG-inspired global shell and S/M/L/XL device views, live seven-state counts, context actions, timed pause and resume, primary channel readings, and bounded sparklines. Automated suite: 120 tests passed."
+    "package_url":  "https://github.com/menglish1986/netwatch-releases/releases/download/v0.18.7/NetWatch-0.18.7-Update.zip",
+    "sha256":  "622f2f373886c9957627ac482c5b4d4f84ae2700c09b21efd24c7d7ea3e3d02c",
+    "version":  "0.18.7",
+    "notes":  "Fixes the in-app update package so the updater accepts it, hardens RouterOS SNMP responses, corrects status counts and Welcome summaries, and improves table contrast."
 }
